@@ -1,0 +1,7 @@
+{
+  "print": "0x00",
+  "getscheduler": "0x00",
+  "vmload": "0x00",
+  "taskdefer": "0x00",
+  "resume": "0x00",
+}
